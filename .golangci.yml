@@ -38,7 +38,7 @@ linters:
 
 linters-settings:
   gofmt:
-    simplify: true
+    simplify: false
   goconst:
     min-len: 3 # minimum length of string constant
     min-occurrences: 6 # minimum number of occurrences
